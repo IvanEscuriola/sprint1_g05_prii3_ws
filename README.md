@@ -21,7 +21,7 @@ G05.
 
 ```zsh
 cd ~/Documents
-git clone [https://github.com/IvanEscuriola/sprint1_g05_prii3_ws.git] (https://github.com/IvanEscuriola/sprint1_g05_prii3_ws.git) proy3
+git clone https://github.com/IvanEscuriola/sprint1_g05_prii3_ws.git proy3
 cd proy3
 ```
 
